@@ -1,4 +1,6 @@
-hello word
+﻿hello word
 nihao a git
 heiheiheiS
 你们好錒
+这是wey1的分支，
+mudamudamuda
