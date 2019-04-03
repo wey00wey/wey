@@ -1,4 +1,2 @@
-hello word
-nihao a git
-heiheiheiS
-你们好錒
+﻿hello word
+这是一个新的分支
